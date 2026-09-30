@@ -1,0 +1,10 @@
+C:\Users\hp\Desktop\calculotor\calculotor\bin\Debug\calculotor.exe.config
+C:\Users\hp\Desktop\calculotor\calculotor\bin\Debug\calculotor.exe
+C:\Users\hp\Desktop\calculotor\calculotor\bin\Debug\calculotor.pdb
+C:\Users\hp\Desktop\calculotor\calculotor\obj\Debug\calculotor.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\calculotor\calculotor\obj\Debug\calculotor.Form1.resources
+C:\Users\hp\Desktop\calculotor\calculotor\obj\Debug\calculotor.Properties.Resources.resources
+C:\Users\hp\Desktop\calculotor\calculotor\obj\Debug\calculotor.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\calculotor\calculotor\obj\Debug\calculotor.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\calculotor\calculotor\obj\Debug\calculotor.exe
+C:\Users\hp\Desktop\calculotor\calculotor\obj\Debug\calculotor.pdb
