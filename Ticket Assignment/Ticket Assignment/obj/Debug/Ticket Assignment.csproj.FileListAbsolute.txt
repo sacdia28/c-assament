@@ -1,0 +1,11 @@
+C:\Users\hp\Desktop\Ticket Assignment\Ticket Assignment\bin\Debug\Ticket Assignment.exe.config
+C:\Users\hp\Desktop\Ticket Assignment\Ticket Assignment\bin\Debug\Ticket Assignment.exe
+C:\Users\hp\Desktop\Ticket Assignment\Ticket Assignment\bin\Debug\Ticket Assignment.pdb
+C:\Users\hp\Desktop\Ticket Assignment\Ticket Assignment\obj\Debug\Ticket Assignment.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Ticket Assignment\Ticket Assignment\obj\Debug\Ticket_Assignment.Form1.resources
+C:\Users\hp\Desktop\Ticket Assignment\Ticket Assignment\obj\Debug\Ticket_Assignment.Properties.Resources.resources
+C:\Users\hp\Desktop\Ticket Assignment\Ticket Assignment\obj\Debug\Ticket Assignment.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\Ticket Assignment\Ticket Assignment\obj\Debug\Ticket Assignment.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Ticket Assignment\Ticket Assignment\obj\Debug\Ticket Assignment.exe
+C:\Users\hp\Desktop\Ticket Assignment\Ticket Assignment\obj\Debug\Ticket Assignment.pdb
+C:\Users\hp\Desktop\Ticket Assignment\Ticket Assignment\obj\Debug\Ticket Assignment.exe.config

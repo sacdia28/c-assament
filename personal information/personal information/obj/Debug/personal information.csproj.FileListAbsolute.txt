@@ -1,0 +1,11 @@
+C:\Users\hp\Desktop\personal information\personal information\obj\Debug\personal information.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\personal information\personal information\obj\Debug\personal_information.Form1.resources
+C:\Users\hp\Desktop\personal information\personal information\obj\Debug\personal_information.Properties.Resources.resources
+C:\Users\hp\Desktop\personal information\personal information\obj\Debug\personal information.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\personal information\personal information\obj\Debug\personal information.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\personal information\personal information\bin\Debug\personal information.exe.config
+C:\Users\hp\Desktop\personal information\personal information\bin\Debug\personal information.exe
+C:\Users\hp\Desktop\personal information\personal information\bin\Debug\personal information.pdb
+C:\Users\hp\Desktop\personal information\personal information\obj\Debug\personal information.exe
+C:\Users\hp\Desktop\personal information\personal information\obj\Debug\personal information.pdb
+C:\Users\hp\Desktop\personal information\personal information\obj\Debug\personal information.exe.config
