@@ -1,0 +1,11 @@
+C:\Users\hp\Documents\filess\filess\bin\Debug\filess.exe.config
+C:\Users\hp\Documents\filess\filess\bin\Debug\filess.exe
+C:\Users\hp\Documents\filess\filess\bin\Debug\filess.pdb
+C:\Users\hp\Documents\filess\filess\obj\Debug\filess.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\filess\filess\obj\Debug\filess.Form1.resources
+C:\Users\hp\Documents\filess\filess\obj\Debug\filess.Properties.Resources.resources
+C:\Users\hp\Documents\filess\filess\obj\Debug\filess.csproj.GenerateResource.cache
+C:\Users\hp\Documents\filess\filess\obj\Debug\filess.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\filess\filess\obj\Debug\filess.exe
+C:\Users\hp\Documents\filess\filess\obj\Debug\filess.pdb
+C:\Users\hp\Documents\filess\filess\obj\Debug\filess.exe.config
